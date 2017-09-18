@@ -5,8 +5,8 @@
   - [x] General style
 - [x] Footer
 - [x] Social meta tags for posts
-- [ ] Use Webpack to import styles
-- [ ] Custom analytics with events
+- [x] Use Webpack to import styles
+- [ ] Add CDN for images
 - [ ] Commenting system
 - [ ] Telegram preview
 - [ ] Loading bar
